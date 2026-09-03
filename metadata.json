@@ -1,0 +1,6 @@
+{
+  "name": "WEDLANCER PRIVATE - Case Portal & WhatsApp Parser",
+  "description": "Full-stack RO water purifier case portal and bulk WhatsApp message parser for WEDLANCER PRIVATE technicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
